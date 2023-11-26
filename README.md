@@ -1,4 +1,4 @@
-#Diabetes Detection Research
+# Diabetes Detection Research
 Welcome to the Diabetes Detection Research repository! This project aims to explore and develop predictive models for diabetes detection using traditional machine learning and deep learning techniques. Below is a brief description of the repository structure and usage instructions:
 
 Repository Structure:
