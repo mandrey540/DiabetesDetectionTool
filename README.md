@@ -1,5 +1,8 @@
 # **Diabetes Detection Research**
 
+**If you find this code useful, please provide attribution by including a link to the original repository: (https://github.com/mandrey540/DiabetesDetectionTool).**
+
+
 Welcome to the Diabetes Detection Research repository! This project aims to explore and develop predictive models for diabetes detection using traditional machine learning and deep learning techniques. Below is a brief description of the repository structure and usage instructions:
 
 Repository Structure:
@@ -26,3 +29,4 @@ Explore and Analyze:
 
 Analyze the results, explore the models, and gain insights into diabetes detection based on the implemented machine learning and deep learning models.
 Feel free to reach out if you have any questions or encounter issues. Happy coding and exploring the world of diabetes detection research!
+
